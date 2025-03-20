@@ -27,22 +27,12 @@ print(x >= len(my_list) or x == min(my_list))
 print(x not in my_list)
 ```
 
-### 🔹 Funciones y métodos
-Las funciones y los métodos son similares, pero los métodos son funciones que pertenecen a una clase. Se llaman usando la notación por puntos.
+### 🔹 Operadores aritméticos 
+Estos operadores aritméticos son:
 
-El método split es una función que pertenece a la clase string. Divide las cadenas en sus espacios en blanco.
-
-Las funciones independientes no pertenecen a una clase en particular y a menudo pueden utilizarse en varias clases.
 ```python
  sum([6, 3])
 9
 ```
-
-## 📖 Recursos Recomendados
-- Para más información sobre funciones, consulta la [Biblioteca de Referencia de Python](https://docs.python.org/3/), en las secciones:
-
-- Tipos de datos
-- Funciones
-- Símbolos
 
 ¡Sigue explorando Python! 🚀
