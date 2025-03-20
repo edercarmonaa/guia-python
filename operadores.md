@@ -31,8 +31,27 @@ print(x not in my_list)
 Estos operadores aritméticos son:
 
 ```python
- sum([6, 3])
-9
+#Suma +
+[IN]  5 + 2
+[OUT] 7	
+#Resta -
+[IN] 5 - 2
+[OUT] 3
+#Multiplicación *
+[IN] 5 * 2
+[OUT] 10
+#División /
+[IN] 5 / 2
+[OUT] 2.5
+#Exponenciación **
+[IN] 5 % 2 
+[OUT] 1
+#Módulo  %
+[IN] 5 ** 2
+[OUT] 25
+#División de piso //
+[IN] 5 // 2
+[OUT] 2
 ```
 
 ¡Sigue explorando Python! 🚀
