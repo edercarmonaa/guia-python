@@ -11,3 +11,4 @@ Los ordenadores utilizan lenguajes como Python, C++ y Java para ejecutar instruc
 
 ## 📖 Indice
 - [Sintasix básica](sintasix.md)
+- [Funciones](funciones.md)
