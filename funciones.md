@@ -29,7 +29,8 @@ def my_function(parameters):
        - El docstring debe resumir el comportamiento de la función y explicar sus argumentos y valores de retorno.
        - El docstring debe ir sangrado cuatro espacios a partir de la sentencia de definición.
 3. Escriba el cuerpo de la función.
-       - Todo el código debe tener una sangría de al menos cuatro espacios a partir de la definición, pero puede haber varios niveles de sangría en función de la complejidad del código.
+   - Todo el código debe tener una sangría de al menos cuatro espacios a partir de la definición, pero puede haber varios niveles de sangría en función de la complejidad del código.
+   - El docstring debe ir sangrado cuatro espacios a partir de la sentencia de definición.
 4.	Por último, utilice una sentencia return para devolver un valor o una sentencia print para imprimir algo en la consola y completar la función. Esta línea también debe tener una sangría de cuatro espacios.
 
 
