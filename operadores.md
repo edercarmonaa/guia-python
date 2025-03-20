@@ -19,13 +19,17 @@ En Python, puedes utilizar operadores de comparación para comparar valores. Cua
 - and : evalúa a Verdadero sólo si ambas sentencias son verdaderas
 - or  : evalúa a True si una o ambas sentencias son verdaderas
 - not : Si la sentencia es Verdadera, devuelve Falso; si la sentencia es Falsa, devuelve Verdadero
+```python
+x = 3
+my_list = [3, 4, 6, 10]
+print(x < 3 and x != 0)
+print(x >= len(my_list) or x == min(my_list))
+print(x not in my_list)
+```
 
 ### 🔹 Funciones y métodos
 Las funciones y los métodos son similares, pero los métodos son funciones que pertenecen a una clase. Se llaman usando la notación por puntos.
-```python
-my_string = 'Las águilas llenaron el cielo.'
-my_string.split()
-```
+
 El método split es una función que pertenece a la clase string. Divide las cadenas en sus espacios en blanco.
 
 Las funciones independientes no pertenecen a una clase en particular y a menudo pueden utilizarse en varias clases.
