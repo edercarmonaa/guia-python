@@ -8,3 +8,6 @@ Python es un lenguaje de programación flexible utilizado en diversos campos com
 ## 📌 El Lenguaje de Python
 
 Los ordenadores utilizan lenguajes como Python, C++ y Java para ejecutar instrucciones. La **sintaxis** de Python incluye palabras que representan objetos y órdenes, así como signos de puntuación que estructuran las instrucciones. La **semántica** se refiere al significado de la sintaxis.
+
+## 📖 Indice
+- [Sintasix básica](https://docs.python.org/3/)
