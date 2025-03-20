@@ -8,12 +8,12 @@ En Python, puedes utilizar operadores de comparación para comparar valores. Cua
 
 | Operación  |    Operador   |
 |------------|:-------------:|
-| mayor que   |     |
-| mayor que o igual a   |    centered   |  
-| menor que   | right-aligned |
-| menor o igual que   | right-aligned |
-| no igual a  | right-aligned |
-| igual a   | right-aligned |
+| mayor que   |   >  |
+| mayor que o igual a   |   >=   |  
+| menor que   | < |
+| menor o igual que   | <=|
+| no igual a  | != |
+| igual a   | ==  |
 
 1.	Comience con la palabra clave def seguida del nombre de la función, luego ponga sus parámetros/argumentos entre paréntesis, terminando con dos puntos.
       - La convención de Python es utilizar snake_case (palabras en minúsculas separadas por guiones bajos) para los nombres de las funciones.
