@@ -32,13 +32,6 @@ def my_function(parameters):
    - Todo el código debe tener una sangría de al menos cuatro espacios a partir de la definición, pero puede haber varios niveles de sangría en función de la complejidad del código.
 4.	Por último, utilice una sentencia return para devolver un valor o una sentencia print para imprimir algo en la consola y completar la función. Esta línea también debe tener una sangría de cuatro espacios.
 
-
-### 🔹 Palabras Clave
-Palabras reservadas con funciones específicas.
-```python
-in, not, or, for, while, return
-```
-
 ### 🔹 return vs. print
 La diferencia entre return y print es simple: return devuelve un valor que puedes usar, mientras que print solo lo muestra en la consola. Es como si return te trajera patatas del mercado y print solo te dijera qué patatas había, sin darte ninguna.
 
