@@ -74,7 +74,7 @@ nombre_alumno = "Carlos Pérez"
 ## 🏆 El Zen de Python
 Tim Peters escribió estos principios rectores para la codificación en Python:
 
-> - > -  Lo bonito es mejor que lo feo.
+> -  Lo bonito es mejor que lo feo.
 > -  Lo explícito es mejor que lo implícito.
 > -  Lo simple es mejor que lo complejo.
 > -  Lo complejo es mejor que lo complicado.
