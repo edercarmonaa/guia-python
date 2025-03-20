@@ -23,13 +23,16 @@ in, not, or, for, while, return
 ### 🔹 Operadores
 Realizan operaciones con objetos y valores.
 ```python
-+  # Suma
--  # Resta
-*  # Multiplicación
-/  # División
-** # Exponenciación
-%  # Módulo
-// # División entera
++    #Suma
+-    #Resta
+*    #Multiplicación
+/    #División
+**   #Exponenciación 
+%    #Módulo (devuelve el resto después de una división). Ejemplo: 10 % 3 = 1
+//   #División de piso (divide el primer operando por el segundo operando y redondea el resultado al entero más cercano. Ejemplo: 5 // 2 = 2
+>    #Mayor que (devuelve un booleano de si el operando izquierdo es mayor que el operando derecho)
+<    #Menor que (devuelve un valor booleano que indica si el operando izquierdo es menor que el operando derecho)
+==   #Igualdad (devuelve un valor booleano que indica si el operando de la izquierda es igual al de la derecha)
 ```
 
 ### 🔹 Expresiones
