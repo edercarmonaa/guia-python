@@ -23,7 +23,7 @@ def my_function(parameters):
     return value
 ```
 1.	Comience con la palabra clave def seguida del nombre de la función, luego ponga sus parámetros/argumentos entre paréntesis, terminando con dos puntos.
-      -La convención de Python es utilizar snake_case (palabras en minúsculas separadas por guiones bajos) para los nombres de las funciones.
+      - La convención de Python es utilizar snake_case (palabras en minúsculas separadas por guiones bajos) para los nombres de las funciones.
 2.	Para funciones importantes o funciones cuyos propósitos u operaciones no sean muy obvios, incluya un docstring. Escriba el docstring entre tres comillas de apertura y cierre.
        - El docstring debe tener forma de comando (por ejemplo, "Suma dos números" en lugar de "Suma dos números").
        - El docstring debe resumir el comportamiento de la función y explicar sus argumentos y valores de retorno.
