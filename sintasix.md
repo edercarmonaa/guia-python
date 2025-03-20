@@ -71,15 +71,38 @@ nombre_alumno = "Carlos Pérez"
 ## 🏆 El Zen de Python
 Tim Peters escribió estos principios rectores para la codificación en Python:
 
-> - Lo bonito es mejor que lo feo.
-> - Lo explícito es mejor que lo implícito.
-> - Lo simple es mejor que lo complejo.
-> - La legibilidad cuenta.
-> - Ahora es mejor que nunca.
+> - > -  Lo bonito es mejor que lo feo.
+> -  Lo explícito es mejor que lo implícito.
+> -  Lo simple es mejor que lo complejo.
+> -  Lo complejo es mejor que lo complicado.
+> -  Plano es mejor que anidado.
+> -  Esparcido es mejor que denso.
+> -  La legibilidad cuenta.
+> -  Los casos especiales no son tan especiales como para romper las reglas.
+> -  Aunque la practicidad gana a la pureza.
+> -  Los errores nunca deben pasar en silencio.
+> -  A menos que se silencien explícitamente.
+> -  Ante la ambigüedad, rechaza la tentación de adivinar.
+> -  Debe haber una -y preferiblemente sólo una- forma obvia de hacerlo.
+> -  Aunque esa manera puede no ser obvia al principio, a menos que seas holandés.
+> -  Ahora es mejor que nunca.
+> -  Aunque a menudo "nunca" es mejor que "ahora mismo".
+> -  Si la aplicación es difícil de explicar, es una mala idea.
+> -  Si la implementación es fácil de explicar, puede ser una buena idea.
+> -  Los espacios de nombres son una gran idea, ¡hagámoslo más!
 
 ## 📖 Recursos Recomendados
 - [Documentación oficial de Python](https://docs.python.org/3/)
 - [Guía de estilo PEP 8](https://peps.python.org/pep-0008/)
 - [Funciones integradas de Python](https://docs.python.org/3/library/functions.html)
 
-💡 ¡Sigue explorando y practicando para mejorar tus habilidades en Python! 🚀
+
+## 📢 Compartir en Redes Sociales
+Para compartir esta guía en redes sociales, usa los siguientes botones:
+
+```html
+<a href="https://www.facebook.com/sharer/sharer.php?u=URL_DE_LA_GUIA" target="_blank">Compartir en Facebook</a>
+<a href="https://api.whatsapp.com/send?text=URL_DE_LA_GUIA" target="_blank">Compartir en WhatsApp</a>
+```
+
+¡Sigue explorando Python! 🚀
