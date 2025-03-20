@@ -93,13 +93,4 @@ Tim Peters escribió estos principios rectores para la codificación en Python:
 - [Guía de estilo PEP 8](https://peps.python.org/pep-0008/)
 - [Funciones integradas de Python](https://docs.python.org/3/library/functions.html)
 
-
-## 📢 Compartir en Redes Sociales
-Para compartir esta guía en redes sociales, usa los siguientes botones:
-
-```html
-<a href="https://www.facebook.com/sharer/sharer.php?u=URL_DE_LA_GUIA" target="_blank">Compartir en Facebook</a>
-<a href="https://api.whatsapp.com/send?text=URL_DE_LA_GUIA" target="_blank">Compartir en WhatsApp</a>
-```
-
 ¡Sigue explorando Python! 🚀
